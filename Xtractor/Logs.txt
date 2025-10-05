@@ -1,0 +1,997 @@
+﻿
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 0 records retrieved
+
+✅ Tair: 0 records retrieved
+
+✅ Qair: 0 records retrieved
+
+✅ Wind_N: 0 records retrieved
+
+✅ Wind_E: 0 records retrieved
+
+✅ SWdown: 0 records retrieved
+
+✅ LWdown: 0 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 0 records retrieved
+
+✅ Tair: 0 records retrieved
+
+✅ Qair: 0 records retrieved
+
+✅ Wind_N: 0 records retrieved
+
+✅ Wind_E: 0 records retrieved
+
+✅ SWdown: 0 records retrieved
+
+✅ LWdown: 0 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 0 records retrieved
+
+✅ Tair: 0 records retrieved
+
+✅ Qair: 0 records retrieved
+
+✅ Wind_N: 0 records retrieved
+
+✅ Wind_E: 0 records retrieved
+
+✅ SWdown: 0 records retrieved
+
+✅ LWdown: 0 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 0 records retrieved
+
+✅ Tair: 0 records retrieved
+
+✅ Qair: 0 records retrieved
+
+✅ Wind_N: 0 records retrieved
+
+✅ Wind_E: 0 records retrieved
+
+✅ SWdown: 0 records retrieved
+
+✅ LWdown: 0 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 0 records retrieved
+
+✅ Tair: 0 records retrieved
+
+✅ Qair: 0 records retrieved
+
+✅ Wind_N: 0 records retrieved
+
+✅ Wind_E: 0 records retrieved
+
+✅ SWdown: 0 records retrieved
+
+✅ LWdown: 0 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 0 records retrieved
+
+✅ Tair: 0 records retrieved
+
+✅ Qair: 0 records retrieved
+
+✅ Wind_N: 0 records retrieved
+
+✅ Wind_E: 0 records retrieved
+
+✅ SWdown: 0 records retrieved
+
+✅ LWdown: 0 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 0 records retrieved
+
+✅ Tair: 0 records retrieved
+
+✅ Qair: 0 records retrieved
+
+✅ Wind_N: 0 records retrieved
+
+✅ Wind_E: 0 records retrieved
+
+✅ SWdown: 0 records retrieved
+
+✅ LWdown: 0 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 0 records retrieved
+
+✅ Tair: 0 records retrieved
+
+✅ Qair: 0 records retrieved
+
+✅ Wind_N: 0 records retrieved
+
+✅ Wind_E: 0 records retrieved
+
+✅ SWdown: 0 records retrieved
+
+✅ LWdown: 0 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 0 records retrieved
+
+✅ Tair: 0 records retrieved
+
+✅ Qair: 0 records retrieved
+
+✅ Wind_N: 0 records retrieved
+
+✅ Wind_E: 0 records retrieved
+
+✅ SWdown: 0 records retrieved
+
+✅ LWdown: 0 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 0 records retrieved
+
+✅ Tair: 0 records retrieved
+
+✅ Qair: 0 records retrieved
+
+✅ Wind_N: 0 records retrieved
+
+✅ Wind_E: 0 records retrieved
+
+✅ SWdown: 0 records retrieved
+
+✅ LWdown: 0 records retrieved
+
+
+
+
+
+
+
+✅ Rainf: 43849 records retrieved
+
+✅ Tair: 43849 records retrieved
+
+✅ Qair: 43849 records retrieved
+
+✅ Wind_N: 43849 records retrieved
+
+✅ Wind_E: 43849 records retrieved
+
+✅ SWdown: 43849 records retrieved
+
+✅ LWdown: 43849 records retrieved
+
