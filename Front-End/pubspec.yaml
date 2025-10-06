@@ -1,0 +1,38 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.5+1
+  intl: ^0.20.2
+  http: ^1.5.0
+  bottom_sheet: ^4.0.4
+  flutter_map: ^7.0.0
+  latlong2: ^0.9.0
+  path_provider: ^2.1.5
+  csv: ^6.0.0
+  share_plus: ^12.0.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.11.0
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/logoparadox.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logoparadox.png
