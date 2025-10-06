@@ -6,7 +6,7 @@ namespace WeatherLens.Models;
 /// <summary>
 /// Represents a weather or environmental variable tracked by the WeatherLens system.
 /// </summary>
-[Table("WeatherVariables")]
+[Table("weather_variables")]
 public sealed class WeatherVariable
 {
     /// <summary>
@@ -14,12 +14,14 @@ public sealed class WeatherVariable
     /// </summary>
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+    [Column("id")]
     public Guid Id { get; set; }
 
     /// <summary>
     /// Timestamp indicating when the variable definition was created (UTC).
     /// </summary>
     [Required]
+    [Column("created_at")]
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
     /// <summary>
@@ -27,6 +29,7 @@ public sealed class WeatherVariable
     /// </summary>
     [Required]
     [MaxLength(50)]
+    [Column("name")]
     public string Name { get; set; } = string.Empty;
 
     /// <summary>
@@ -34,6 +37,7 @@ public sealed class WeatherVariable
     /// </summary>
     [Required]
     [MaxLength(30)]
+    [Column("unit")]
     public string Unit { get; set; } = string.Empty;
 
     /// <summary>
@@ -41,13 +45,6 @@ public sealed class WeatherVariable
     /// </summary>
     [Required]
     [MaxLength(255)]
+    [Column("description")]
     public string Description { get; set; } = string.Empty;
-
-    /// <summary>
-    /// URL reference to the data source or NASA dataset from which this variable originates.
-    /// </summary>
-    [Required]
-    [Url]
-    [MaxLength(500)]
-    public string DataUrl { get; set; } = string.Empty;
 }

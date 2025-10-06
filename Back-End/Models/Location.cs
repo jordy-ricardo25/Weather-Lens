@@ -14,12 +14,14 @@ public sealed class Location
     /// </summary>
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+    [Column("id")]
     public Guid Id { get; set; }
 
     /// <summary>
     /// Date and time when the location record was created (UTC).
     /// </summary>
     [Required]
+    [Column("created_at")]
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
     /// <summary>
@@ -27,6 +29,7 @@ public sealed class Location
     /// </summary>
     [Required]
     [MaxLength(150)]
+    [Column("name")]
     public string Name { get; set; } = string.Empty;
 
     /// <summary>
@@ -35,6 +38,7 @@ public sealed class Location
     /// </summary>
     [Required]
     [Range(-90, 90)]
+    [Column("latitude")]
     public float Latitude { get; set; }
 
     /// <summary>
@@ -43,17 +47,6 @@ public sealed class Location
     /// </summary>
     [Required]
     [Range(-180, 180)]
+    [Column("longitude")]
     public float Longitude { get; set; }
-
-    /// <summary>
-    /// Country name or ISO country code associated with the location (optional).
-    /// </summary>
-    [MaxLength(100)]
-    public string? Country { get; set; }
-
-    /// <summary>
-    /// Region, state, or province name associated with the location (optional).
-    /// </summary>
-    [MaxLength(100)]
-    public string? Region { get; set; }
 }

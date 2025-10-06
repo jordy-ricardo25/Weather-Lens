@@ -65,12 +65,6 @@ public sealed class AppDbContext : DbContext
                   .HasMaxLength(150)
                   .IsRequired();
 
-            entity.Property(l => l.Country)
-                  .HasMaxLength(100);
-
-            entity.Property(l => l.Region)
-                  .HasMaxLength(100);
-
             entity.Property(l => l.CreatedAt)
                   .HasDefaultValueSql("CURRENT_TIMESTAMP");
         });
@@ -92,10 +86,6 @@ public sealed class AppDbContext : DbContext
                   .HasMaxLength(255)
                   .IsRequired();
 
-            entity.Property(v => v.DataUrl)
-                  .HasMaxLength(500)
-                  .IsRequired();
-
             entity.Property(v => v.CreatedAt)
                   .HasDefaultValueSql("CURRENT_TIMESTAMP");
         });
@@ -105,17 +95,8 @@ public sealed class AppDbContext : DbContext
         // ---------------------------
         modelBuilder.Entity<WeatherQuery>(entity =>
         {
-            entity.Property(q => q.Status)
-                  .HasMaxLength(50);
-
             entity.Property(q => q.CreatedAt)
                   .HasDefaultValueSql("CURRENT_TIMESTAMP");
-
-            // Foreign key: User → Queries
-            entity.HasOne(q => q.User)
-                  .WithMany()
-                  .HasForeignKey(q => q.UserId)
-                  .OnDelete(DeleteBehavior.Cascade);
 
             // Foreign key: Location → Queries
             entity.HasOne(q => q.Location)
@@ -148,9 +129,6 @@ public sealed class AppDbContext : DbContext
         // ---------------------------
         modelBuilder.Entity<WeatherResult>(entity =>
         {
-            entity.Property(r => r.TimeRange)
-                  .HasMaxLength(100);
-
             entity.Property(r => r.CreatedAt)
                   .HasDefaultValueSql("CURRENT_TIMESTAMP");
 

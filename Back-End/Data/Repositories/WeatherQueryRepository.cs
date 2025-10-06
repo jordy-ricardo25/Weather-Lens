@@ -23,7 +23,6 @@ public sealed class WeatherQueryRepository : IRepository<WeatherQuery>
     public async Task<IEnumerable<WeatherQuery>> GetAllAsync()
     {
         return await _context.Queries
-            .Include(q => q.User)
             .Include(q => q.Location)
             .AsNoTracking()
             .ToListAsync();
@@ -33,7 +32,6 @@ public sealed class WeatherQueryRepository : IRepository<WeatherQuery>
     public async Task<WeatherQuery?> GetByIdAsync(Guid id)
     {
         return await _context.Queries
-            .Include(q => q.User)
             .Include(q => q.Location)
             .FirstOrDefaultAsync(q => q.Id == id);
     }
@@ -42,7 +40,6 @@ public sealed class WeatherQueryRepository : IRepository<WeatherQuery>
     public async Task<IEnumerable<WeatherQuery>> FindAsync(Expression<Func<WeatherQuery, bool>> predicate)
     {
         return await _context.Queries
-            .Include(q => q.User)
             .Include(q => q.Location)
             .AsNoTracking()
             .Where(predicate)

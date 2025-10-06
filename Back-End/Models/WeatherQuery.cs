@@ -14,43 +14,29 @@ public sealed class WeatherQuery
     /// </summary>
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+    [Column("id")]
     public Guid Id { get; set; }
 
     /// <summary>
     /// Timestamp indicating when the query was created (UTC).
     /// </summary>
     [Required]
+    [Column("created_at")]
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
     /// <summary>
     /// The date or time period requested for weather data retrieval.
     /// </summary>
     [Required]
+    [Column("date")]
     public DateTime Date { get; set; }
-
-    /// <summary>
-    /// Current processing status of the query (e.g., "Pending", "Completed", "Failed").
-    /// </summary>
-    [MaxLength(50)]
-    public string? Status { get; set; } = "Pending";
-
-    /// <summary>
-    /// Foreign key referencing the <see cref="User"/> who initiated the query.
-    /// </summary>
-    [Required]
-    public Guid UserId { get; set; }
 
     /// <summary>
     /// Foreign key referencing the <see cref="Location"/> for which the weather data was requested.
     /// </summary>
     [Required]
+    [Column("location_id")]
     public Guid LocationId { get; set; }
-
-    /// <summary>
-    /// Navigation property for the user associated with this query.
-    /// </summary>
-    [ForeignKey(nameof(UserId))]
-    public User User { get; set; } = null!;
 
     /// <summary>
     /// Navigation property for the location associated with this query.

@@ -14,24 +14,28 @@ public sealed class WeatherQueryVariable
     /// </summary>
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+    [Column("id")]
     public Guid Id { get; set; }
 
     /// <summary>
     /// Date and time when the record was created (UTC).
     /// </summary>
     [Required]
+    [Column("created_at")]
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
     /// <summary>
     /// Foreign key referencing the associated <see cref="WeatherQuery"/>.
     /// </summary>
     [Required]
+    [Column("query_id")]
     public Guid QueryId { get; set; }
 
     /// <summary>
     /// Foreign key referencing the associated <see cref="WeatherVariable"/>.
     /// </summary>
     [Required]
+    [Column("variable_id")]
     public Guid VariableId { get; set; }
 
     /// <summary>
