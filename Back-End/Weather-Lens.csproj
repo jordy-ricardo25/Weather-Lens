@@ -24,24 +24,21 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
     <Folder Include="Controllers\" />
     <Folder Include="Data\" />
-    <Folder Include="Data\Repositories\" />
     <Folder Include="DTOs\" />
-    <Folder Include="Mapping\" />
-    <Folder Include="Helpers\" />
     <Folder Include="Assets\" />
+    <Folder Include="Services\" />
+    <Folder Include="Data\Entities\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Repositories\IRepository.css" />
     <None Remove="Data\" />
-    <None Remove="Data\Repositories\" />
     <None Remove="DTOs\" />
-    <None Remove="Mapping\" />
-    <None Remove="Helpers\" />
     <None Remove="Assets\" />
     <None Remove="Assets\DataSeries.csv" />
+    <None Remove="Services\" />
+    <None Remove="Data\Entities\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\DataSeries.csv">

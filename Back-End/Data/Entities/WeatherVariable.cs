@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace WeatherLens.Models;
+namespace WeatherLens.Entities;
 
 /// <summary>
 /// Represents a weather or environmental variable tracked by the WeatherLens system.

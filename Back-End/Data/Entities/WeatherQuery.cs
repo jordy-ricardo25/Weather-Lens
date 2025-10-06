@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace WeatherLens.Models;
+namespace WeatherLens.Entities;
 
 /// <summary>
 /// Represents a single weather data request performed by a user for a specific location and date.

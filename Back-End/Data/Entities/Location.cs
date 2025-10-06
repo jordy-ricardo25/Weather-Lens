@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace WeatherLens.Models;
+namespace WeatherLens.Entities;
 
 /// <summary>
 /// Represents a geographic location monitored or referenced within the WeatherLens system.

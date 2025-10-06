@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace WeatherLens.Models;
+namespace WeatherLens.Entities;
 
 /// <summary>
 /// Represents the computed weather data results for a specific variable within a weather query.

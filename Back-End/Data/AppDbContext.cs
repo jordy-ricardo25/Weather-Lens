@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WeatherLens.Models;
+using WeatherLens.Entities;
 
 namespace WeatherLens.Data;
 
